@@ -1,5 +1,5 @@
 # Keichovt Discord Theme Anleitung
-[Click Here for Englisch Tutorial](https://vencord.dev/download/)
+[Englische Version](https://github.gameware75.de/keicho_dc/en/)
 
 Dieses Thema ist eine Anpassung des ClearVision-v6-Themas für Discord.
 
